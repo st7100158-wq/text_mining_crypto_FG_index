@@ -1,0 +1,21 @@
+=== 標準化後統計 ===
+標準化恐懼關鍵字平均值:
+Ethereum fear       6.21
+Ethereum scam      11.30
+Ethereum bubble     3.26
+SEC ETH             6.16
+Ethereum crash     11.12
+Ethereum fraud      8.18
+Ethereum sell      21.56
+Ethereum risk       9.02
+dtype: float64
+
+標準化貪婪關鍵字平均值:
+Ethereum investment           25.89
+the most profitable crypto     4.80
+Ethereum DeFi                 13.40
+Ethereum surge                 6.49
+Ethereum growth               12.32
+Ethereum buy                  20.90
+Ethereum profit               10.53
+Ethereum bull run              5.03
