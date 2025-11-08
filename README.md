@@ -17,7 +17,7 @@ Because the cryptocurrency market is **newer, smaller, and lacks fundamental ana
 
 Our target is **Ethereum**, the second-largest cryptocurrency. We have created a **custom weighted index** referenced from the original formula, which is applicable to other cryptocurrencies and also simplifies the analysis process.
 
-$$\text{Volatility} \times 0.25 + \text{Volume} \times 0.25\ + \text{Social Media} \times 0.25\ + \text{Google Search Trends} \times 0.25\ = \text{Fear \& Greed Index}$$
+$$\text{Volatility} \times 0.25 + \text{Volume} \times 0.25\ + \text{Social Media} \times 0.25\ + \text{Google Search Trends} \times 0.25\ = \text{Fear Greed Index}$$
 
 **Formula Reference Source:** [https://alternative.me/crypto/fear-and-greed-index/](https://alternative.me/crypto/fear-and-greed-index/)
 
